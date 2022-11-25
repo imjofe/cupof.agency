@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.idea
+*.log
+coverage
+.vitest-result.json
+test-results
+tests_output
